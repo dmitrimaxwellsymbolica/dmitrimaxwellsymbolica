@@ -1,0 +1,3 @@
+- Hi, I’m @dmitrimaxwellsymbolica and it is a fake name
+- I’m interested in everything
+- I’m currently learning machine learning and deep learning
